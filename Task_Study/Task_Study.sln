@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Study", "Task_Study\Task_Study.csproj", "{F73ABE3A-16F6-4C0E-A1BB-8DE4711C8696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用并发集合", "使用并发集合\使用并发集合.csproj", "{03783F4B-2668-49EF-A671-F005CA437284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用PLINQ", "使用PLINQ\使用PLINQ.csproj", "{5CC05514-9025-4560-8D0C-9507960B28A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用Reactive Extensions", "使用Reactive Extensions\使用Reactive Extensions.csproj", "{AF774DA2-D7B9-480C-93DF-36D65E23A61A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gonghaimin.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Task_Study\\Task_Study.csproj
+		SccProjectName1 = Task_Study
+		SccLocalPath1 = Task_Study
+		SccProjectUniqueName2 = 使用PLINQ\\使用PLINQ.csproj
+		SccProjectName2 = 使用PLINQ
+		SccLocalPath2 = 使用PLINQ
+		SccProjectUniqueName3 = 使用Reactive\u0020Extensions\\使用Reactive\u0020Extensions.csproj
+		SccProjectName3 = 使用Reactive\u0020Extensions
+		SccLocalPath3 = 使用Reactive\u0020Extensions
+		SccProjectUniqueName4 = 使用并发集合\\使用并发集合.csproj
+		SccProjectName4 = 使用并发集合
+		SccLocalPath4 = 使用并发集合
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73ABE3A-16F6-4C0E-A1BB-8DE4711C8696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73ABE3A-16F6-4C0E-A1BB-8DE4711C8696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73ABE3A-16F6-4C0E-A1BB-8DE4711C8696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73ABE3A-16F6-4C0E-A1BB-8DE4711C8696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03783F4B-2668-49EF-A671-F005CA437284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03783F4B-2668-49EF-A671-F005CA437284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03783F4B-2668-49EF-A671-F005CA437284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03783F4B-2668-49EF-A671-F005CA437284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC05514-9025-4560-8D0C-9507960B28A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC05514-9025-4560-8D0C-9507960B28A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC05514-9025-4560-8D0C-9507960B28A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC05514-9025-4560-8D0C-9507960B28A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF774DA2-D7B9-480C-93DF-36D65E23A61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF774DA2-D7B9-480C-93DF-36D65E23A61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF774DA2-D7B9-480C-93DF-36D65E23A61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF774DA2-D7B9-480C-93DF-36D65E23A61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

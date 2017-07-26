@@ -1,0 +1,13 @@
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\使用Reactive Extensions.exe.config
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\使用Reactive Extensions.exe
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\使用Reactive Extensions.pdb
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.Core.dll
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.Interfaces.dll
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.Linq.dll
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.PlatformServices.dll
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.Core.xml
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.Interfaces.xml
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.Linq.xml
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\bin\Debug\System.Reactive.PlatformServices.xml
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\obj\Debug\使用Reactive Extensions.exe
+H:\GHM\Hello-World\Task_Study\使用Reactive Extensions\obj\Debug\使用Reactive Extensions.pdb

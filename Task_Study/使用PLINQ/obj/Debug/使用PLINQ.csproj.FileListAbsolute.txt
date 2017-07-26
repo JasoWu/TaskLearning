@@ -1,0 +1,5 @@
+H:\GHM\Hello-World\Task_Study\使用PLINQ\bin\Debug\使用PLINQ.exe.config
+H:\GHM\Hello-World\Task_Study\使用PLINQ\bin\Debug\使用PLINQ.exe
+H:\GHM\Hello-World\Task_Study\使用PLINQ\bin\Debug\使用PLINQ.pdb
+H:\GHM\Hello-World\Task_Study\使用PLINQ\obj\Debug\使用PLINQ.exe
+H:\GHM\Hello-World\Task_Study\使用PLINQ\obj\Debug\使用PLINQ.pdb

@@ -1,0 +1,11 @@
+H:\Hello-World\Task_Study\使用并发集合\bin\Debug\使用并发集合.exe.config
+H:\Hello-World\Task_Study\使用并发集合\obj\Debug\使用并发集合.csprojResolveAssemblyReference.cache
+H:\Hello-World\Task_Study\使用并发集合\bin\Debug\使用并发集合.exe
+H:\Hello-World\Task_Study\使用并发集合\bin\Debug\使用并发集合.pdb
+H:\Hello-World\Task_Study\使用并发集合\obj\Debug\使用并发集合.exe
+H:\Hello-World\Task_Study\使用并发集合\obj\Debug\使用并发集合.pdb
+H:\GHM\Hello-World\Task_Study\使用并发集合\bin\Debug\使用并发集合.exe.config
+H:\GHM\Hello-World\Task_Study\使用并发集合\bin\Debug\使用并发集合.exe
+H:\GHM\Hello-World\Task_Study\使用并发集合\bin\Debug\使用并发集合.pdb
+H:\GHM\Hello-World\Task_Study\使用并发集合\obj\Debug\使用并发集合.exe
+H:\GHM\Hello-World\Task_Study\使用并发集合\obj\Debug\使用并发集合.pdb
